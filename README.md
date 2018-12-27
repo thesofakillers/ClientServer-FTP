@@ -29,7 +29,7 @@ The [Python 3.6](https://www.python.org/downloads/release/python-360/) scripts c
 
 ## Instructions
 
-Open two terminal windows and change the current directory to the root of the repository. Then in one window type `python client.py` and in the other type `python server.py`. This will start the client and server respectively.
+Open two terminal windows and change the current directory to the root of the repository. Then in one window type `python client/client.py` and in the other type `python server/server.py`. This will start the client and server respectively.
 
 Throughout, `server.py` provides some diagnostics about what is going on, while `client.py` also provides instructions.
 
