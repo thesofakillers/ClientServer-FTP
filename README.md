@@ -34,10 +34,10 @@ Open two terminal windows and change the current directory to the root of the re
 Throughout, server.py provides some diagnostics about what is going on, while client.py also provides instructions.
 
 In general, the workflow is:
-	1. Start server.py
-	2. Start client.py
-	3. Type `CONN` into client.py to connect to the server
-	4. Type one of `UPLD`, `LIST`, `DWLD`, `DELF` or `QUIT` into client.py. Descriptions/Instructions for these are presented when running client.py.
-	5. Repeat as much as you want until you disconnect from the server by typing `QUIT` into client.py.
-	6. Type `QUIT` again to close the client.py script. You may repeat steps 2-5.
-	7. server.py continues listening for connections. You can end server.py by typing ctrl+c in linux/MACOS and ctrl+break in Windows.
+1. Start server.py
+2. Start client.py
+3. Type `CONN` into client.py to connect to the server
+4. Type one of `UPLD`, `LIST`, `DWLD`, `DELF` or `QUIT` into client.py. Descriptions/Instructions for these are presented when running client.py.
+5. Repeat as much as you want until you disconnect from the server by typing `QUIT` into client.py.
+6. Type `QUIT` again to close the client.py script. You may repeat steps 2-5.
+7. server.py continues listening for connections. You can end server.py by typing ctrl+c in linux/MACOS and ctrl+break in Windows.
